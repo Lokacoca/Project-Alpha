@@ -79,7 +79,7 @@ Over 400 FPS on an RTX 4060 Ti, Ryzen 7 5800X, 32 GB RAM.
 
 ## Documentation
 
-The full technical report (in Swedish) is available in [`docs/GymnasieProjekt_Rapport.pdf`](docs/GymnasieProjekt_Rapport.pdf).
+The full technical report (in Swedish) is available in [`docs/GymnasieProjekt_Rapport.pdf`](GymnasieProjekt_Rapport.pdf).
 
 ## Credits
 

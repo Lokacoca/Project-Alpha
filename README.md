@@ -53,7 +53,7 @@ A 3D multiplayer, movement-based first-person shooter built in Unity. Players ex
 |---|---|
 | Engine | Unity 2022 LTS |
 | Language | C# |
-| Networking | Photon PUN 2 |
+| Networking API | Photon PUN 2 |
 | Packages | Input System, Animation Rigging, ProBuilder, TextMeshPro |
 | IDE | Visual Studio |
 

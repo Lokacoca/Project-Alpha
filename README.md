@@ -3,8 +3,9 @@
 A 3D multiplayer, movement-based first-person shooter built in Unity. Players express skill through both movement (sprinting, sliding, wallrunning) and aim. Inspired by Titanfall and RIVALS.
 
 **Download:** a ready-to-run Windows build is available under [Releases](https://github.com/Lokacoca/Project-Alpha/releases).
+<img width="400" height="205" alt="ezgif-3b0202e8f86e065d" src="https://github.com/user-attachments/assets/6abda9ba-6985-48f5-81f8-71235d94f0c5" />
 
-<!-- Add a screenshot or GIF here: ![Gameplay](docs/screenshot.png) -->
+
 
 > Developed as a gymnasium project at Tullängsgymnasium, including a formal technical report (see [Documentation](#documentation)).
 
